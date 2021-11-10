@@ -1,7 +1,3 @@
-# BANA.780
-Advanced Business Analytics
-
-
 <h1> BANA.780 </h1>
 Advanced Business Analytics (Spring 2021)
 
